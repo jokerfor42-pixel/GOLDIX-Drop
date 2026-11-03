@@ -1,7 +1,7 @@
 const { Telegraf, Markup } = require('telegraf');
 
 const BOT_TOKEN = '9271245471:AAEOKqIyBsu6XFTjMTSddu_o1gcV2_oUn9M'; // Вставь сюда токен
-const WEB_APP_URL = 'https://google.com'; // Сюда позже вставим наш Mini App
+const WEB_APP_URL = 'https://goldix-drop.onrender.com'; // Сюда позже вставим наш Mini App
 
 const bot = new Telegraf(BOT_TOKEN);
 
